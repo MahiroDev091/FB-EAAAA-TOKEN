@@ -1,1 +1,17 @@
-# FB-EAAAA-TOKEN
+# 🎫FB-EAAAA-TOKEN
+GET YOUR FB TOKEN - NOT FOR SALE
+
+- WORK IN BOTH REPLIT AND TERMUX (TERMINAL).
+- FBFOLLOW AND SPAMSHARE SUPPORTED.
+- FBREACTION SUPPORTED.
+- SUPPORT ANY TERMINAL.
+- PYTHON3
+
+# 📎SCREENSHOT IMAGE
+<image src="IMG_20231110_182212.JPG">
+
+# 🗃HOW TO RUN THE SCRIPT?
+```python
+git clone https://github.com/MahiroDev091/FB-EAAAA-TOKEN; cd FB-EAAAA-TOKEN; pip3 install pycryptodome; pip3 install requests; python3 tok.py
+```
+
